@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import { World } from 'lib/game/world';
-import { Box, chakra } from '@chakra-ui/react';
+import {  chakra } from '@chakra-ui/react';
 
 const size = 7;
 
